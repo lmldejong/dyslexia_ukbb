@@ -1,7 +1,7 @@
 # Dyslexia UK Biobank Imaging-Genetics Project
 
 This repository contains scripts for preprocessing, polygenic score (PGS) calculation, 
-neuroimaging registration, and statistical analyses of UK Biobank data. The Project 
+neuroimaging registration, and statistical analyses of UK Biobank data. The project 
 investigates the relationship between dyslexia polygenic risk scores and brain morphology 
 using tensor-based morphometry (TBM) and various statistical approaches. 
 
